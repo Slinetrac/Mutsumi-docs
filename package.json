@@ -9,10 +9,15 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
-  "keywords": ["mutsumi", "documentation", "vitepress"],
+  "keywords": [
+    "mutsumi",
+    "documentation",
+    "vitepress"
+  ],
   "author": "Slinetrac",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.6.4"
+    "vitepress": "^1.6.4",
+    "wrangler": "^4.38.0"
   }
 }
