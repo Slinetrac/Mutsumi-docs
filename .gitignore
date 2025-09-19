@@ -1,0 +1,79 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+dist/
+.out/
+build/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# OS generated files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Icon?
+*.icon
+._.dstore
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Package manager
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+*.lock
+
+# Testing
+coverage/
+.nyc_output/
+
+# Typescript
+*.tsbuildinfo
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache
+.cache/
+*.cache
+
+# VitePress cache
+docs/.vitepress/cache/
+
+# Miscellaneous
+*.bak
+*.backup
