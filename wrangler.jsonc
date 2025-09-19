@@ -1,0 +1,7 @@
+{
+  "name": "mutsumi-docs",
+  "compatibility_date": "2025-09-19",
+  "assets": {
+    "directory": "./docs/.vitepress/dist"
+  }
+}
